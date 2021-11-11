@@ -1,0 +1,10 @@
+[package]
+name = "MIPS_Sim"
+version = "0.1.0"
+edition = "2018"
+description = "MIPS32 release 6 simulator and compiler"
+repository = "https://github.com/RosiePuddles/MIPS_Sim"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
